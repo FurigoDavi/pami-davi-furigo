@@ -1,0 +1,12 @@
+{
+  "name": "pami-davi-furigo",
+  "version": "1.0.0",
+  "description": "Antes de começar, é **essencial** ter o *Node.js* e o *NPM* instalados em sua máquina. Para conferir se estão instalados e atualizados, execute os seguintes comandos no PowerShell:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
